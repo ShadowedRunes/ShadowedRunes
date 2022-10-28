@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowedRunes
 - 👀 I’m interested in Fiction, Poetry, Video games.
-- 🌱 I’m currently learning Rust, Unity
+- 🌱 I’m currently learning Rust, Unity, Godot
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
